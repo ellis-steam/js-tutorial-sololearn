@@ -1,2 +1,2 @@
-var price = 55.55;
-document.write(price);
+var sayHello = 'Hello world! \'I am a JavaScript programmer.\'';
+document.write(sayHello);
