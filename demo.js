@@ -1,2 +1,2 @@
-var x = 100;
-document.write(x);
+var price = 55.55;
+document.write(price);
