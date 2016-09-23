@@ -1,8 +1,3 @@
-var course = 3;
-if (course == 1) {
-  document.write("<h1>HTML Tutorial</h1>");
-} else if (course ==2) {
-  document.write("<h1>CSS Turotial");
-} else {
-  document.write("<h1>JavaScript Tutorial");
+for( i=1; i<=5; i++){
+  document.write(i + "<br/>");
 }
