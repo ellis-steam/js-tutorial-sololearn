@@ -1,7 +1,8 @@
-var myNum1 = 7;
-var myNum2 = 10;
-if (myNum1 > myNum2) {
-  alert("This is my first condition");
+var course = 3;
+if (course == 1) {
+  document.write("<h1>HTML Tutorial</h1>");
+} else if (course ==2) {
+  document.write("<h1>CSS Turotial");
 } else {
-  alert("This is my second condition");
+  document.write("<h1>JavaScript Tutorial");
 }
