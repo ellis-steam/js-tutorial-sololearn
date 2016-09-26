@@ -1,5 +1,5 @@
-var i = 0;
-while (i <= 10) {
+var i = 20;
+do {
   document.write(i + "<br />");
   i++;
-}
+} while (i <= 25);
