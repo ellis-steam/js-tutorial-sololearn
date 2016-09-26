@@ -1,3 +1,5 @@
-for( i=1; i<=5; i++){
-  document.write(i + "<br/>");
+var i = 0;
+while (i <= 10) {
+  document.write(i + "<br />");
+  i++;
 }
